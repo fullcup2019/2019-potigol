@@ -1,0 +1,23 @@
+escreva "Esse é meu joguinho"
+
+escreva "Qual o seu nome, meu camarada?"
+
+nome = leia_texto
+
+escreva "Eae, {nome}?"
+
+magico = aletorio(1,800)
+
+escreva "vamo ver se tu é bonzão mesmo, adivinhe o número entre 1 e 800"
+
+numero = leia_texto
+
+escreva "o numero foi:{numero} e o que eu tava pensando era:{magico}"
+
+magico2 = aleatorio(1,8)
+
+escreva "Eu vou facilitar, agora o número é entre 1 e 8..."
+
+numero2 = leia_texto
+
+escreva "então... O numero foi:{numero2} e o que eu tava pensando era:{magico2}"
